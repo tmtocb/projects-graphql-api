@@ -85,6 +85,7 @@ GEM
     ffi (1.14.2)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
+    graphql (1.12.5)
     i18n (1.8.9)
       concurrent-ruby (~> 1.0)
     listen (3.4.1)
@@ -202,6 +203,7 @@ DEPENDENCIES
   devise
   factory_bot_rails
   faker
+  graphql
   listen (~> 3.2)
   pg (>= 0.18, < 2.0)
   pry-rails
